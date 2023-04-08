@@ -1,0 +1,3 @@
+{:deps
+ ;; Weirdly "../../../deps/bar" works
+ {bar/bar {:local/root "deps/bar"}}}
